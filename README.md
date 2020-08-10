@@ -1,4 +1,4 @@
-# PARS: The Python API for Reddit Scraper
+# PARS: The Python API for Reddit Scraping
 PARS aims to be a lightweight library used to access publicly available info on reddit.
 
 Currently this package supports scraping:
