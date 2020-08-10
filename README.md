@@ -1,5 +1,5 @@
-# PPRS
-PPRS is the Public Python Reddit Scraper, which aims to be a lightweight library used to access publicly available info on reddit.
+# PPRS: The Public Python Reddit Scraper
+PPRS aims to be a lightweight library used to access publicly available info on reddit.
 
 Currently this package supports scraping:
 * Subreddit Information
