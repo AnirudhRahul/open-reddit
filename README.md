@@ -1,5 +1,5 @@
-# PPRS: The Public Python Reddit Scraper
-PPRS aims to be a lightweight library used to access publicly available info on reddit.
+# PARS: The Python API for Reddit Scraper
+PARS aims to be a lightweight library used to access publicly available info on reddit.
 
 Currently this package supports scraping:
 * Subreddit Information
